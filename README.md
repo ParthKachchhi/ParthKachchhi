@@ -10,16 +10,6 @@
 </p>
 
 ---
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthKachchhi/ParthKachchhi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthKachchhi/ParthKachchhi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParthKachchhi/ParthKachchhi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
 
 ## 🚀 About Me
 
@@ -65,6 +55,17 @@ https://github.com/ParthKachchhi/KiranaBook
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKachchhi&theme=tokyonight" height="170" />
 </p>
 
+---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthKachchhi/ParthKachchhi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthKachchhi/ParthKachchhi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParthKachchhi/ParthKachchhi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ## 🌐 Portfolio (Coming Soon)
