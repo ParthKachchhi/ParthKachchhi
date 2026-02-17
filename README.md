@@ -335,6 +335,9 @@ Launching soon...
 → Grow into senior engineer 🚀
 ```
 
-<p align="center"> <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260" /> </p> <p align="center"> <b>“Every expert was once a beginner who never stopped building.”</b> </p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzdnM2ZjVmbm94aWxmdjU1am54MnJsaXFjZTQ3cnlnaDM2YXh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SjvgcbEMEptM0KpvJ4/giphy.gif" width="320" />
+</p>
+<p align="center"> <b>“Every expert was once a beginner who never stopped building.”</b> </p>
 
 <h3 align="center"> ⭐ Thanks for visiting my profile — Let's build something amazing together. </h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:00C2FF&height=130&section=footer" /> </p>
